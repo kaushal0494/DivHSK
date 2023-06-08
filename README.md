@@ -1,14 +1,16 @@
 # DivHSK
 
-<img width="602" alt="DivHSK_Model_Architecture" src="https://github.com/kaushal0494/DivHSK/assets/43181857/82f68c4e-9d3e-439a-a01e-80edc77eac6b">
+
+![](https://github.com/kaushal0494/Meta_XNLG/blob/main/metaxng.png)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021/blob/main/LICENSE)
 [![others](https://img.shields.io/badge/Huggingface-Cuda%2011.1.0-brightgreen)](https://huggingface.co/)
 [![others](https://img.shields.io/badge/PyTorch-Stable%20(1.8.1)-orange)](https://pytorch.org/)
 
-## Sample Generation from DivHsk
+## Sample Generation from DivHSK
 
-<img width="328" alt="divhsk_results_2" src="https://github.com/kaushal0494/DivHSK/assets/43181857/a2e58f35-26f3-4cc7-aa44-670d5f07c557">
+
+![](https://github.com/kaushal0494/DivHSK/blob/main/divhsk_gen.png)
 
 ## About
 
