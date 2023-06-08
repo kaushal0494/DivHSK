@@ -24,8 +24,9 @@ The code was tested with Python=3.8, PyTorch==1.8, and transformers=4.11.
 
 ## Training & Generation
 
-- The dataset is organized in the datasets folder. 
-- To get the preprocessed data which is to be used for training and generation, run the jupyter notebook 'dataset_Pre_processing.ipynb'
+- The `MR_HEAD` dataset included in the datasets folder. 
+- To get the preprocessed data which is to be used for training and generation, run the jupyter notebook `dataset_Pre_processing.ipynb`
+- Run below scripts for model training and headline generation
 
 ### Model Training 
 ```
@@ -78,7 +79,7 @@ python -m torch.distributed.launch \
     --do_train \
 ```
 ### Generating Headlines
-Inside scripts directory.
+
 ```
 #!/bin/bash
 cd ..
