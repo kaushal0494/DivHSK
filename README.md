@@ -1,7 +1,7 @@
 # DivHSK
 
 
-![](https://github.com/kaushal0494/Meta_XNLG/blob/main/metaxng.png)
+![](https://github.com/kaushal0494/DivHSK/blob/main/divhsk_model.png)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/Arko98/Hostility-Detection-in-Hindi-Constraint-2021/blob/main/LICENSE)
 [![others](https://img.shields.io/badge/Huggingface-Cuda%2011.1.0-brightgreen)](https://huggingface.co/)
