@@ -27,7 +27,7 @@ The code was tested with Python=3.8, PyTorch==1.8, and transformers=4.11.
 - The dataset is organized in the datasets folder. 
 - To get the preprocessed data which is to be used for training and generation, run the jupyter notebook 'dataset_Pre_processing.ipynb'
 
-### Step 1: Training 
+### Model Training 
 ```
 #!/bin/bash
 cd ..
@@ -77,7 +77,7 @@ python -m torch.distributed.launch \
     --label_smoothing_factor 0.0\
     --do_train \
 ```
-### Step 2: Generate Headlines
+### Generating Headlines
 Inside scripts directory.
 ```
 #!/bin/bash
