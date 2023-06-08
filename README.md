@@ -14,7 +14,7 @@
 
 ## About
 
-This repository contains the source code of the paper titled ![DIVHSK: Diverse Headline Generation using Self-Attention based Keyword Selection]() which is accepted in the Findings of the Association of Computational Linguistics (ACL 2023) conference. If you have any questions, please feel free to create a Github issue or reach out to the authors.
+This repository contains the source code of the paper titled [DIVHSK: Diverse Headline Generation using Self-Attention based Keyword Selection]() which is accepted in the Findings of the Association of Computational Linguistics (ACL 2023) conference. If you have any questions, please feel free to create a Github issue or reach out to the authors.
 
 ## Environment Setup
 To set up the environment, use the following conda commands:
