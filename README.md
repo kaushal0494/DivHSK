@@ -1,4 +1,4 @@
-# DivHSK
+# DivHSK Model
 
 
 ![](https://github.com/kaushal0494/DivHSK/blob/main/divhsk_model.png)
